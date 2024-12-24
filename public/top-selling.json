@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Vertical Striped Shirt",
+      "image": "/assets/greenShirt.png",
+      "price": 212,
+      "originalPrice": 232,
+      "rating": 5.0,
+      "discount": 20
+    },
+    {
+      "id": 2,
+      "name": "Courage Graphic T-shirt",
+      "image": "/assets/orangeTop.png",
+      "price": 145,
+      "originalPrice": 145,
+      "rating": 4.0,
+      "discount": 0
+    },
+    {
+      "id": 3,
+      "name": "Loose Fit Bermuda Shorts",
+      "image": "/assets/short.png",
+      "price": 80,
+      "originalPrice": 90,
+      "rating": 3.0,
+      "discount": 10
+    },
+    {
+      "id": 4,
+      "name": "Black Jeans",
+      "image": "/assets/blackJean.png",
+      "price": 210,
+      "originalPrice": 210,
+      "rating": 4.5,
+      "discount": 0
+    }
+  ]
+  

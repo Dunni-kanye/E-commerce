@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "T-shirt with Tape Details",
+      "image": "/assets/blackTop.png",
+      "price": 120,
+      "originalPrice": 140,
+      "rating": 4.5,
+      "discount": 20
+    },
+    {
+      "id": 2,
+      "name": "Skinny Fit Jeans",
+      "image": "./assets/jean.png",
+      "price": 240,
+      "originalPrice": 260,
+      "rating": 3.5,
+      "discount": 20
+    },
+    {
+      "id": 3,
+      "name": "Checkered Shirt",
+      "image": "/assets/shirt.png",
+      "price": 180,
+      "originalPrice": 200,
+      "rating": 4.5,
+      "discount": 10
+    },
+    {
+      "id": 4,
+      "name": "Sleeve Striped T-shirt",
+      "image": "/assets/polo.png",
+      "price": 130,
+      "originalPrice": 160,
+      "rating": 4.5,
+      "discount": 30
+    }
+  ]
+  
